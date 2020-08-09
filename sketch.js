@@ -112,7 +112,7 @@ function draw() {
   nail5.display();
   nail6.display();
 
-  /*strokeWeight(3);
+  strokeWeight(3);
   line(ball1.body.position.x, ball1.body.position.y, nail1.body.position.x, nail1.body.position.y);
   fill("white");
 
@@ -134,7 +134,7 @@ function draw() {
 
   strokeWeight(3);
   line(ball6.body.position.x, ball6.body.position.y, nail6.body.position.x, nail6.body.position.y);
-  fill("white");*/
+  fill("white");
 
   drawSprites();
 }
